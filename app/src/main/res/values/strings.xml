@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="driverBtn">Driver</string>
+    <string name="customerBtn">Customer</string>
+    <string name="email">your_email@mail.com</string>
+    <string name="password">password</string>
+    <string name="logIn">Log In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="title_activity_drivers_map">Map</string>
+</resources>

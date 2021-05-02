@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933486024694",
+    "project_id": "taxi-9e658",
+    "storage_bucket": "taxi-9e658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933486024694:android:d2152c1dd75f2dae3419d7",
+        "android_client_info": {
+          "package_name": "com.sheba.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933486024694-klpac199nprhp869k71c9gkaffth8llj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRxdPtWnNjqSMLVp24b_es7HIubW-Ikg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933486024694-klpac199nprhp869k71c9gkaffth8llj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
